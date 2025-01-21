@@ -1,3 +1,8 @@
+## sing-box下载
+ 
+[sing-box地址](https://github.com/SagerNet/sing-box)
+
+
 ## 根据json生成二进制规则文件
 ```sh
 
