@@ -22,7 +22,7 @@
     ],
     "outbounds": [
         {
-    	       "tag": "🇨🇳 直连域名",
+    	    "tag": "🇨🇳 直连域名",
             "type": "direct",
         },
         {
@@ -53,13 +53,13 @@
 	       }
       ],
       "rule_set": [
-      {
-      "tag": "cn",
+       {
+        "tag": "cn",
         "type": "remote",
         "format": "binary",
         "url": "https://raw.githubusercontent.com/EUForest/sing-box-rules/refs/heads/main/cn.srs"
-      }
-    ] 
+       }
+     ] 
   }
 }
 ```
