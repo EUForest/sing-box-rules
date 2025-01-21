@@ -9,7 +9,7 @@
 ./sing-box rule-set compile  --output ./cn.srs  cn.json
 
 ```
-## 配置方法
+## 配置文件(config.json)内容
 
 ```json
 {
@@ -56,4 +56,11 @@
     ] 
   }
 }
+```
+
+## 运行客户端
+```sh
+./sing-box run -c config.json
+
+
 ```
