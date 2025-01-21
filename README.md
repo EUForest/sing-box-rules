@@ -26,6 +26,7 @@
             "type": "direct",
         },
         {
+            "tag":"代理",
             "type": "vmess",
             "server": "",
             "server_port": 31271,
@@ -46,7 +47,10 @@
       		{ 
       		 "rule_set": [ "cn" ], 
       		 "outbound": "🇨🇳 直连域名" 
-      		}
+      		},
+      		{
+		        "outbound": "代理"
+	       }
       ],
       "rule_set": [
       {
