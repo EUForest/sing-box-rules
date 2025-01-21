@@ -22,8 +22,12 @@
     ],
     "outbounds": [
         {
-         "tag": "🇨🇳 直连域名",
-      "type": "direct",
+    	       "tag": "🇨🇳 直连域名",
+            "type": "direct",
+        },
+        {
+            "tag": "🇨🇳 直连域名",
+            "type": "direct",
             "type": "vmess",
             "server": "",
             "server_port": 31271,
